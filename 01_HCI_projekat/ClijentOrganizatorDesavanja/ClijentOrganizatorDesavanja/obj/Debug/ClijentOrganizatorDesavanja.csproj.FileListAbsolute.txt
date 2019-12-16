@@ -1,0 +1,21 @@
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\bin\Debug\ClijentOrganizatorDesavanja.exe.config
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\bin\Debug\ClijentOrganizatorDesavanja.exe
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\bin\Debug\ClijentOrganizatorDesavanja.pdb
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.csprojResolveAssemblyReference.cache
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.Forme.Admin.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.Promjena.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.Detalji.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.GlavnaForma.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.KreirajDogadjaj.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.LoginForma.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.Properties.Resources.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.RegisterForma.resources
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.csproj.GenerateResource.Cache
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.exe
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.pdb
+D:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\bin\Debug\ClijentOrganizatorDesavanja.exe.config
+D:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.exe
+D:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.pdb
+E:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\bin\Debug\ClijentOrganizatorDesavanja.exe.config
+E:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.exe
+E:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ClijentOrganizatorDesavanja\ClijentOrganizatorDesavanja\obj\Debug\ClijentOrganizatorDesavanja.pdb

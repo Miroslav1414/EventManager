@@ -1,0 +1,31 @@
+Tema 2 - Sistem za organizovanje dešavanja
+
+
+
+Svako dešavanje ima vrstu (npr. seminar, konferencija, itd), naziv, opis, lokaciju, vrijeme, itd.
+Sastoji se od jedne ili više podstavki razlicitih vrsta (npr. tema, sekcija, itd) 
+koja ima naziv, opis, lokaciju, vrijeme, itd.
+Svaka podstavka se sastoji od pojedinacnih elemenata razlicitih vrsta 
+(npr. predavanje, prezentacija, itd) koje ima naziv, opis, lokaciju, vrijeme, itd.
+Bonus: moguce dodavanje fajlova (koje se cuvaju u DB) na stavke
+
+vrste za esavanja:
+konferencija
+predavanja
+seminari
+promocije
+koncerti
+izlozbe
+osala desavanja
+
+vrste za stavke:
+tema
+sekcija
+
+vrste za elemente:
+predavanja
+prezentacije
+
+
+
+ZATVORENOG ILI OTVORENOG TIPA?!

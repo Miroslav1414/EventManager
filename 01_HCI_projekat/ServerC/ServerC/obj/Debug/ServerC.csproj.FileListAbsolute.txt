@@ -1,0 +1,14 @@
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\bin\Debug\ServerC.exe.config
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\bin\Debug\ServerC.exe
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\bin\Debug\ServerC.pdb
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\bin\Debug\MySql.Data.dll
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\bin\Debug\MySql.Data.xml
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\obj\Debug\ServerC.csprojResolveAssemblyReference.cache
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\obj\Debug\ServerC.exe
+C:\Users\Miso\Documents\Visual Studio 2015\Projects\ServerC\ServerC\obj\Debug\ServerC.pdb
+D:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ServerC\ServerC\bin\Debug\ServerC.exe.config
+D:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ServerC\ServerC\obj\Debug\ServerC.exe
+D:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ServerC\ServerC\obj\Debug\ServerC.pdb
+E:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ServerC\ServerC\bin\Debug\ServerC.exe.config
+E:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ServerC\ServerC\obj\Debug\ServerC.exe
+E:\ETF\IV godina\01_Interakcija covjek racunar\03_Projektni\01_HCI_projekat\ServerC\ServerC\obj\Debug\ServerC.pdb
